@@ -4,7 +4,6 @@ import time
 import sys
 import RPi.GPIO as GPIO
  
-
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 GPIO.setmode(GPIO.BOARD)

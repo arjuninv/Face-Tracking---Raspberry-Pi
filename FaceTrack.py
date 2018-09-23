@@ -72,7 +72,6 @@ try:
                 print "Hgood" + str(xn)
             
 
-
             yn = (y + y + h) / 2
             if(yn > 180):
                 
